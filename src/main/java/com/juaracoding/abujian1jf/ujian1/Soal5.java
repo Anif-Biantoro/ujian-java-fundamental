@@ -1,5 +1,4 @@
 package com.juaracoding.abujian1jf.ujian1;
-import java.util.Scanner;
 public class Soal5 {
     public static void main(String[] args) {
         // Mendeklarasikan dan menginisialisasi array dengan harga tiket 5 film
